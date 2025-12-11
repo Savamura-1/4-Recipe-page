@@ -221,6 +221,9 @@ td:last-child {
   .content-text {
     padding: 0 3.2rem;
   }
+  .attribution {
+    background-color: #f3e5d7;
+  }
 }
 .attribution {
   text-align: center;
