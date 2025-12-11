@@ -209,6 +209,17 @@ td:last-child {
 @media (max-width: 37.5rem) {
   .container {
     max-width: 100%;
+    padding: 0;
+    border-radius: 0;
+  }
+  .main {
+    padding: 0 0;
+  }
+  .img {
+    border-radius: 0;
+  }
+  .content-text {
+    padding: 0 3.2rem;
   }
 }
 .attribution {
